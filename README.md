@@ -100,7 +100,3 @@ This project uses a serverless function to hide the OpenCage API key.
 GitHub: [@JanardanTripathi](https://github.com/JanardanTripathi)
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
